@@ -50,7 +50,7 @@ You will then see your results posted in the prompt. You are finished, close all
 <img src="https://i.imgur.com/JorxxRM.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-You will then see your results posted in the prompt. You are finished, close all open boxes.
+I hope you enjoyed this demonstration.
 
  <br/>
 <img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
