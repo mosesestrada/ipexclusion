@@ -53,10 +53,9 @@ You will then see your results posted in the prompt. You are finished, close all
 You will then see your results posted in the prompt. You are finished, close all open boxes.
 
  <br/>
-<img src="https://i.imgur.com/JorxxRM.png" height="80%" width="80%" alt="DHCP/>
+<img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
 
 
 </p>
