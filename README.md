@@ -23,7 +23,7 @@ Get ready to level up your networking skills! In today's lesson, we'll be diving
 
 <br />
 <br />
-From Hyper-V Manager, select  your host server, in this example ours is CORPSERVER. We are going to be double clicking on our DHCP Virtual Machine to connect to it.
+From Hyper-V Manager, select  your Hyper-V  host server, in this example ours is CORPSERVER. We are going to be double clicking on our DHCP Virtual Machine to connect to it.
  <br/>
 <img src="https://i.imgur.com/EVXAv46.png" height="80%" width="80%" alt="DHCP"/>
 <br />
