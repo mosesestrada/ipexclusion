@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/DfR8wiF.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/BUPiLRR.jpg" height="80%" width="80%" alt="DHCPexcludelogo"/>
 </p>
 
 <h1>Creating an IP exclusion scope</h1>
@@ -25,35 +25,35 @@ Get ready to level up your networking skills! In today's lesson, we'll be diving
 <br />
 From Hyper-V Manager, select  your Hyper-V  host server, in this example ours is CORPSERVER. We are going to be double clicking on our DHCP Virtual Machine to connect to it.
  <br/>
-<img src="https://i.imgur.com/EVXAv46.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/LJjoBFQ.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 Once our DHCP VM connects. Open server manager then select tools> DHCP
  <br/>
-<img src="https://i.imgur.com/LE4izeo.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/9oJRJGH.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 In the DHCP dialogue box expand DHCP> Your Domain> IPV4> Scope. Right click address pool and select "exclusion range".
 
  <br/>
-<img src="https://i.imgur.com/tDBn0VB.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/E0lfZ2v.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 Enter your desired exclusion range.
 <br/>
-<img src="https://i.imgur.com/EGqLtiT.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/D2elj2A.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 You will then see your results posted in the prompt. You are finished, close all open boxes.
 
  <br/>
-<img src="https://i.imgur.com/JorxxRM.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/2grwJN8.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
 
  <br/>
-<img src="https://i.imgur.com/8XiAIhm.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/4NxgwJB.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 
