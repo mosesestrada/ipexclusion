@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/BUPiLRR.jpg" height="80%" width="80%" alt="DHCPexcludelogo"/>
+ <img src="https://i.imgur.com/pTW69Cf.jpg" height="80%" width="80%" alt="DHCPexcludelogo"/>
 </p>
 
 <h1>Creating an IP exclusion scope</h1>
@@ -53,7 +53,7 @@ You will then see your results posted in the prompt. You are finished, close all
 I hope you enjoyed this demonstration.
 
  <br/>
-<img src="https://i.imgur.com/4NxgwJB.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/VJVXmVn.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 
