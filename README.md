@@ -53,7 +53,7 @@ You will then see your results posted in the prompt. You are finished, close all
 I hope you enjoyed this demonstration.
 
  <br/>
-<img src="https://i.imgur.com/VJVXmVn.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/CvlFI3e.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 
